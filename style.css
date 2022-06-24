@@ -1,0 +1,17 @@
+.estilo{
+    color:black;
+    background-color: white;
+    border-radius:15px;
+}
+
+.imagem{
+    text-align:center;
+    background-color: white;
+    border-radius:15px;
+}
+
+.img{
+    width: 300px;
+    height: auto;
+    
+}
