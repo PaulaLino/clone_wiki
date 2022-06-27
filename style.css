@@ -1,17 +1,21 @@
 .estilo{
     color:black;
     background-color: white;
-    border-radius:15px;
+    border-radius:15px
+    margin:auto;
+    display: table-cell;
+    float: :right;
+    width: 900px
+
 }
 
 .imagem{
-    text-align:center;
+    text-align:right;
     background-color: white;
-    border-radius:15px;
+    border-radius: 200px;
 }
 
 .img{
     width: 300px;
     height: auto;
-    
 }
